@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  border: 0;
+}
+
+.gmailtext {
+  position: absolute;
+  /* top: ; */
+  left: 1100px;
+}
+
+.imagestext {
+  position: absolute;
+  /* top: ; */
+  left: 1170px;
+}
+
+.dotsdiv {
+  position: absolute;
+  /* top: ; */
+  left: 1250px;
+}
+
+.abasimg {
+  position: absolute;
+  /* top: ; */
+  left: 1300px;
+  border-radius: 50%;
+}
+
+.googletextlogo {
+  display: inline;
+  position: relative;
+  left: 408px;
+  bottom: -60px;
+}
+
+.search {
+  position: absolute;
+  /* background-color: red; */
+  margin-bottom: 3rem;
+  border-radius: 30px;
+  width: 410px;
+  height: 45px;
+  left: 400px;
+  bottom: 255px;
+}
+
+.searchinput {
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+  border: 2px solid gray;
+  outline: none;
+  padding: 0 50px;
+  font-size: 1rem;
+}
