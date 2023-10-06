@@ -55,3 +55,19 @@
   padding: 0 50px;
   font-size: 1rem;
 }
+
+.googlesearchicon {
+  /* color: red; */
+  position: absolute;
+  top: 355px;
+  left: 415px;
+}
+
+.googlelens {
+}
+
+.googlemic{
+
+}
+
+/* think of how to estabish the media query that will fit the main page */
